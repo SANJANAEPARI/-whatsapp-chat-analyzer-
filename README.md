@@ -6,8 +6,7 @@ WhatsApp Chat Analyzer is a user-friendly web application that allows both tech-
 This versatile analyzer offers various insights and benefits to users. It enables anyone with a WhatsApp account to export their chat data, whether from a group or individual conversation, in a text format without including media files. By uploading this exported chat data to the web application, users can unlock a wealth of valuable information and analytics. It's a powerful tool accessible to all WhatsApp users, regardless of their technical expertise.
 
 
-## 🔗 BELOW IS THE LINK TO VIEW THE PROJECT
-[![CLICK HERE TO VIEW THE PROJECCT](https://img.shields.io/badge/project_link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sanjanaepari--whatsapp-chat-analyzer--app-cke3d5.streamlit.app/)
+
 
 
 
